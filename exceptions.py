@@ -4,7 +4,3 @@ class FailedSecretsRequestException(Exception):
 
 class SecretPathNotFoundException(Exception):
     pass
-
-
-class InvalidPathFormatException(Exception):
-    pass

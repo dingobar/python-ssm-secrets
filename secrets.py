@@ -3,7 +3,6 @@ from botocore.exceptions import ClientError
 from exceptions import (
     FailedSecretsRequestException,
     SecretPathNotFoundException,
-    InvalidPathFormatException,
 )
 
 
